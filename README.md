@@ -1,2 +1,2 @@
-# CodeRepo
- Projeo que perminte inseri os meu repositórios do github
+# Coderepo
+ Projeto que permite eu enviar os meu repositórios do github
